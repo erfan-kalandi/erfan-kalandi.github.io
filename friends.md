@@ -4,7 +4,7 @@ author_profile: true
 permalink: /friends/
 title: My college friends 
 tags: [friends]
-modified: 4-10-2019
+modified: 22-10-2021
 comments: true
 ---
 
