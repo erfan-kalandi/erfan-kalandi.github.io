@@ -10,6 +10,6 @@ comments: false
 
 |    |   |**Education**                                                               |
 |----|---|----------------------------------------------------------------------------------|
-|2021|NOW| **BS**, Computer Engineering, Iran University of Science & Technology, Tehran, Iran |
+|2021|NOW| **Freshman**, Computer Engineering, Iran University of Science & Technology, Tehran, Iran |
 |----|---|----------------------------------------------------------------------------------|
 
