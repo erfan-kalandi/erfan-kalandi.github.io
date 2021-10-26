@@ -12,7 +12,7 @@ comments: true
 * [محمد مجتبی اسدی](https://fateh00.github.io) 
 * [پویا آب نیکی](https://pouyaabniki.github.io)
 * [پارسا وظیفه](http://parsavazifeh.github.io)
-* [پوریا کرمی](pourya22334415.github.io)
+* [پوریا کرمی](http://pourya22334415.github.io)
 * [امیر پاشاراده](https://amirpashazadeh.github.io)
 
 
