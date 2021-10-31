@@ -113,7 +113,7 @@ author:
   location         : "خوزستان,دزفول"
   email            : erfan_kalandi@comp.iust.ac.ir
   twitter: 
-  linkedin: 
+  linkedin: www.linkedin.com/in/erfan-kalandi 
   google_scholar: 
   github: erfan-kalandi
   instagram: 
@@ -141,7 +141,7 @@ author:
      # url: "http://calendly.com/pourrang_atashi"
     - label: "telegram"
       icon: "fas fa-telegram-alt"
-    url: "http://t.me/e_kalandi"
+     # url: "http://t.me/e_kalandi"
 
 # Site Footer
 footer:
