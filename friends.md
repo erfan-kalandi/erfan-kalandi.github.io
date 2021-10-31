@@ -13,7 +13,10 @@ comments: true
 * [پویا آب نیکی](https://pouyaabniki.github.io)
 * [پارسا وظیفه](http://parsavazifeh.github.io)
 * [پوریا کرمی](http://pourya22334415.github.io)
-* [امیر پاشاراده](https://amirpashazadeh.github.io)
+* [امیر پاشاراده](https://amirpashazadeh.github.io)  
+* [مبین برفی](https://mobinbr.github.io/)  
+* [نیما نادری](https://nimanr4.github.io/)   
+* [پارسا آقاعلی](https://parsaaghaali.github.io/)
 
 
 
