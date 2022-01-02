@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [Favorite football player](https://www.cristianoronaldo.com/#cr7)(https://s4.uupload.ir/files/13029_wkbq.jpg)
+* [Favorite football player](https://www.cristianoronaldo.com/#cr7)  
+<img src="https://s4.uupload.ir/files/13029_wkbq.jpg" style="height: 100px; width:100px;"/>
 * [دانشگاه علم وصنعت](http://www.iust.ac.ir)
 
